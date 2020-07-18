@@ -1,5 +1,4 @@
 # hybrid-multi-cloud-training
- @LinuxWorldIndia
  Tasks completed during Summer Training @LinuxWorldIndia
  
 # task-1
