@@ -26,8 +26,8 @@
 1. Create S3 bucket, and copy/deploy the images from github repo into the s3 bucket and change the permission to public readable.
 1. Create a Cloudfront Distribution using S3 bucket(which contains images) and use the Cloudfront URL to update in code in `/var/www/html`
 
-# task-2
- AWS Infrastructure As Code Using Terraform
+# task-3
+ Use Terraform to create and configure customized VPC for secure Wordpress Deployment
 
 1. Write a Infrastructure as code using terraform, which automatically create a VPC.
 
